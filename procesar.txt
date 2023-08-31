@@ -1,0 +1,25 @@
+// echo "Nombre: $nombre"."<br>";
+// echo "Apellido: $apellido"."<br>";
+// echo "Edad: $edad"."<br>";
+// echo "Sexo: $sexo"."<br>";
+// echo "Roles:"."<br>";
+
+// echo "<ul>";
+// foreach($roles as $rol) {
+//     echo "<li>".$rol."</li>";
+// }
+// /* 
+// echo "Roles mediante ciclo for"."<br>";
+// for ($i=0; $i < count($roles); $i++) {
+//     echo "$roles[$i]". " ";
+// */
+// echo "</ul>";
+
+// //var_dump($imagen);
+// echo "<br>";
+// echo $path;
+// echo "<br>";
+// move_uploaded_file($imagen ["tmp_name"],$path);
+// echo "\n";
+// echo "mensaje: $mensaje" ;
+// echo "<br>";
